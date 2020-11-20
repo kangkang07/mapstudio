@@ -11,6 +11,7 @@
     "strict": true,
     "paths": {
       "@/*": ["src/*"],
+      "@mapu/*": ["mapu/src/*"],
       "@@/*": ["src/.umi/*"]
     },
     "allowSyntheticDefaultImports": true
